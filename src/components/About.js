@@ -21,9 +21,9 @@ export default function About() {
                         <a className="social-icon" href="https://github.com/Ranjithkumar9894">
                             <i className="fab fa-github" />
                         </a>
-                        <a className="social-icon" onClick={() => window.location = 'mailto:a.ranjithkumar67@gamil.com'}>
+                        {/* <a className="social-icon" onClick={() => window.location = 'mailto:a.ranjithkumar67@gamil.com'}>
                             <i class="fa fa-envelope" />
-                        </a>
+                        </a> */}
                         {/* <a
                         className="social-icon"
                         href="https://www.youtube.com/channel/UCtWzTuAO-uEnGhrktGNPi0g/featured"
